@@ -1,0 +1,16 @@
+To run the 2D spatial hashing program:
+
+Load the visual studio file, press f5 to compile and run in release mode.
+
+When the GLFW window loads, move it over if it's covering the command console
+(That's where the FPS and particle counts output)
+
+When the program loads there will be 200 particles on screen.
+
+You can change this from 10 to 10000 particles using the up and down arrows
+
+up arrow - increases particles
+
+down arrow - decreases particles
+
+Enjoy! :)
